@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=now
+comment0.target=void\ update(long)
+comment1.params=gc
+comment1.target=void\ draw(javafx.scene.canvas.GraphicsContext)
+numComments=2
